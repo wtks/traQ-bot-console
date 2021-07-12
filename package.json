@@ -44,7 +44,7 @@
     "pug-plain-loader": "^1.1.0",
     "stylus": "^0.54.8",
     "stylus-loader": "^3.0.2",
-    "vue-cli-plugin-quasar": "^3.0.2",
+    "vue-cli-plugin-quasar": "^4.0.1",
     "vue-template-compiler": "^2.6.14",
     "ware-loader": "^0.2.4"
   },
